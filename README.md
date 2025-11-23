@@ -4,4 +4,4 @@ This is a smart and user-friendly To-Do List application designed to enhance pro
 
 Showcasing my front-end development skills, this project emphasizes reliability, persistence, and a clean user experience. It's an ideal tool for personal use or as a foundational project for team collaboration, demonstrating my ability to deliver practical, visually appealing solutions that truly meet user needs.
 
-<a href="https://tlamt.github.io/Todo-List/" target="_blank"> ToDo List</a>
+<a href="https://tlamt.github.io/Todo-List/" target="_blank">ToDo List</a>
